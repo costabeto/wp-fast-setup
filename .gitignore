@@ -1,0 +1,5 @@
+mysql_data/*
+wp_data/*
+
+!mysql_data/.gitkeep
+!wp_data/.gitkeep
